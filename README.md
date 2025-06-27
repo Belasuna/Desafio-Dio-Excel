@@ -1,8 +1,8 @@
 # Desafio-Dio-Excel
 
-# Desafio Excel - DIO
+# Desafios Excel 1 e 2 - DIO
 
-Este repositório está com a entrega do desafio 1 proposto no curso de Excel da DIO.
+Este repositório está com a entrega dos desafio 1 e 2 propostos no curso de Excel da DIO.
 
 • ↓ O que aprendi:
 - Fórmulas básicas 
