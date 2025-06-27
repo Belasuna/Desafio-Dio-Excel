@@ -2,7 +2,7 @@
 
 # Desafio Excel - DIO
 
-Este repositório está com a entrega do desafio proposto no curso de Excel da DIO.
+Este repositório está com a entrega do desafio 1 proposto no curso de Excel da DIO.
 
 • ↓ O que aprendi:
 - Fórmulas básicas 
