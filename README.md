@@ -1,6 +1,6 @@
 # Desafio-Dio-Excel
 
-# Desafios Excel 1 e 2 - DIO
+# Desafios Excel 1, 2 e 3- DIO
 
 Este repositório está com a entrega dos desafio 1 e 2 propostos no curso de Excel da DIO.
 
@@ -8,6 +8,7 @@ Este repositório está com a entrega dos desafio 1 e 2 propostos no curso de Ex
 - Fórmulas básicas 
 - Filtros e Tabelas
 - Formatação condicional
+- Dashboards
 
 • ► Arquivos incluídos:
 - Planilha com gráficos e dados
